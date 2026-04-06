@@ -12,15 +12,20 @@
 ![Snake animation](https://github.com/LEGEND2835/LEGEND2835/blob/output/github-snake-dark.svg)
 
 ---
-# 📊 GitHub Stats:
+# 📊 Coding Activity & Metrics:
+
 ![](https://github-readme-stats.vercel.app/api?username=LEGEND2835&theme=radical&show_icons=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LEGEND2835&theme=radical&layout=compact&count_private=true)
-
----
-## 🏆 GitHub Metrics
 ![](https://metrics.lecoq.io/LEGEND2835?base=header,activity,community,repositories&base.indepth=true&theme=radical)
----
-[![](https://visitcount.itsvg.in/api?id=LEGEND2835&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LEGEND2835&theme=radical&layout=compact&count_private=true)
+
+---
+## 🏆 Engineering Achievements
+![](https://github-profile-trophy.vercel.app/?username=LEGEND2835&theme=radical&no-frame=false&margin-w=4)
+
+---
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=LEGEND2835&icon=0&color=0" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
