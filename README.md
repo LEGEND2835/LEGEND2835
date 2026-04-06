@@ -15,9 +15,9 @@
 # 📊 Coding Activity & Metrics:
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LEGEND2835&theme=radical&show_icons=true&count_private=true" alt="Santanu's Stats" />
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LEGEND2835&theme=radical&layout=compact&count_private=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LEGEND2835&theme=radical&show_icons=true&count_private=true" alt="Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LEGEND2835&theme=radical&count_private=true&layout=donut-variant" alt="Languages" />
 </div>
 
 ---
@@ -28,6 +28,6 @@
 
 ---
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=LEGEND2835&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=LEGEND2835&label=Profile%20Views&color=007bff&style=flat&base=100" alt="Visitor Count" />
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
