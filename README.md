@@ -17,11 +17,11 @@
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LEGEND2835&theme=radical&show_icons=true&count_private=true" alt="Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LEGEND2835&theme=radical&count_private=true&layout=donut-variant" alt="Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LEGEND2835&theme=radical&count_private=true&layout=donut" alt="Languages" />
 </div>
 
 ---
-## 🏆 Engineering Achievements
+## 🏆 Engineering Achievements:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LEGEND2835&theme=radical&column=4" alt="Trophies" />
 </div>
