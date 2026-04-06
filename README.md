@@ -14,16 +14,20 @@
 ---
 # 📊 Coding Activity & Metrics:
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=LEGEND2835&theme=radical&show_icons=true&count_private=true)
-
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LEGEND2835&theme=radical&layout=compact&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LEGEND2835&theme=radical&show_icons=true&count_private=true" alt="Santanu's Stats" />
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LEGEND2835&theme=radical&layout=compact&count_private=true" alt="Most Used Languages" />
+</div>
 
 ---
 ## 🏆 Engineering Achievements
-![](https://github-profile-trophy.vercel.app/?username=LEGEND2835&theme=radical&column=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LEGEND2835&theme=radical&column=4" alt="Trophies" />
+</div>
 
 ---
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=LEGEND2835&icon=0&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=LEGEND2835&icon=0&color=0" alt="Visitor Count" />
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
