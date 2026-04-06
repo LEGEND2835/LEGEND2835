@@ -13,13 +13,13 @@
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LEGEND2835&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LEGEND2835&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LEGEND2835&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=LEGEND2835&theme=radical&show_icons=true&count_private=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LEGEND2835&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LEGEND2835&theme=radical&layout=compact&count_private=true)
 
+---
+## 🏆 GitHub Metrics
+![](https://metrics.lecoq.io/LEGEND2835?base=header,activity,community,repositories&base.indepth=true&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=LEGEND2835&icon=0&color=0)](https://visitcount.itsvg.in)
 
