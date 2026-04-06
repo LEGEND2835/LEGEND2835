@@ -14,15 +14,13 @@
 ---
 # 📊 Coding Activity & Metrics:
 
-![](https://github-readme-stats.vercel.app/api?username=LEGEND2835&theme=radical&show_icons=true&count_private=true)
-
-![](https://metrics.lecoq.io/LEGEND2835?base=header,activity,community,repositories&base.indepth=true&theme=radical)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=LEGEND2835&theme=radical&show_icons=true&count_private=true)
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LEGEND2835&theme=radical&layout=compact&count_private=true)
 
 ---
 ## 🏆 Engineering Achievements
-![](https://github-profile-trophy.vercel.app/?username=LEGEND2835&theme=radical&no-frame=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=LEGEND2835&theme=radical&column=4)
 
 ---
 <p align="center">
