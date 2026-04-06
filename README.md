@@ -21,12 +21,8 @@
 </div>
 
 ---
-## 🏆 Engineering Achievements:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LEGEND2835&theme=radical&column=4" alt="Trophies" />
-</div>
+## 👁️ Views:
 
----
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LEGEND2835&label=Profile%20Views&color=007bff&style=flat&base=100" alt="Visitor Count" />
 </p>
