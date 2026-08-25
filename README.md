@@ -37,9 +37,9 @@
 # 📊 Coding Activity & Metrics:
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LEGEND2835&theme=radical&show_icons=true&count_private=true" alt="Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LEGEND2835&theme=radical&show_icons=true" alt="Stats Card" />
   <br/><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LEGEND2835&theme=radical&count_private=true&layout=donut" alt="Language Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEGEND2835&theme=radical&layout=donut" alt="Language Card" />
 </div>
 
 ---
